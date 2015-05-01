@@ -1,6 +1,6 @@
 # Shoporo::Model
 
-The PORO component for [Shoporo](shoporo.org).
+The PORO component for [Shoporo](http://shoporo.org).
 
 Provides the models for your Ruby ecommerce solution.
 
